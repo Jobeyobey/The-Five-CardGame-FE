@@ -1,3 +1,1 @@
-# The-Five-CardGame-FE
-
-The Five
+# Card Verse - Frontend
